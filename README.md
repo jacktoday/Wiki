@@ -11,7 +11,7 @@ Happy learning, Day day up
 		
 
 * JavaScript 	
-
+	* [javascrip copy](https://segmentfault.com/a/1190000015009032)
 
 * Vue
 
