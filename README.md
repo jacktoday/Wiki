@@ -11,6 +11,7 @@
 
 * JavaScript 	
 	* [javascrip copy](https://segmentfault.com/a/1190000015009032)
+	* [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 * Vue
 
